@@ -1,5 +1,3 @@
----
-
 # **NorthernTribe Research**
 
 **NorthernTribe Research** is a private research and technology firm specializing in **Artificial Intelligence, Cybersecurity, and Autonomous Systems**.
